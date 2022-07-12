@@ -1,0 +1,154 @@
+.top-container{
+  background-color: #E4F9F5;
+  width: 100%;
+  height:100%;
+ margin:0;
+padding: 100px;
+}
+.mmiddle-container{
+  width: 100%;
+  height: 100%;
+   margin:0;
+
+
+}
+.bottom-container{
+  margin-top: 50px;
+  padding: 100px;
+  background-color: #11999E;
+  width: 100%;
+  height:100%;
+
+}
+body{
+  margin: 0px;
+  text-align: center;
+    position: relative;
+    width: 100%;
+
+}
+hr{
+  border: dotted grey;
+  width:25%;
+  border-bottom: 0;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+p{
+  font-weight: bold;
+  font-family: 'Source Sans Pro', sans-serif;
+  line-height: 30px;
+}
+h3{
+   font-weight: bold;
+  color: #11999E;
+}
+h2{
+  color: #66BFBF;
+  font-weight:bold;
+}
+.love{
+  width: 45%;
+  margin: 0 auto;
+  line-height: 2;
+  margin-bottom: 50px;
+}
+a{
+  color:#EAF6F6 ;
+  margin-right: 50px;
+  text-decoration: none;
+  margin-bottom: 300px;
+}
+a:hover{
+  color: black;
+}
+.skills1{
+  width:25%;
+
+
+
+}
+.bottom{
+  margin-top: 100px;
+  position: relative;
+  bottom: 50px;
+  right: 100px;
+}
+.skills2{
+  width:18%;
+  margin-left: 40px;
+
+
+}
+.contact-me{
+
+
+}
+.btn{
+  -webkit-border-radius: 13;
+  -moz-border-radius: 13;
+  border-radius: 13px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 17px;
+  background: #48a3e0;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+
+}
+
+.btn:hover {
+  background: #13496b;
+  background-image: -webkit-linear-gradient(top, #13496b, #3498db);
+  background-image: -moz-linear-gradient(top, #13496b, #3498db);
+  background-image: -ms-linear-gradient(top, #13496b, #3498db);
+  background-image: -o-linear-gradient(top, #13496b, #3498db);
+  background-image: linear-gradient(to bottom, #13496b, #3498db);
+  text-decoration: none;
+}
+
+.animated{
+  border-radius: 100%;
+}
+.skill-row{
+  width: 50%;
+  margin: 40px auto 40px auto;
+
+  line-height: 2;
+}
+.mountain_img{
+position: relative;
+top: 104px;
+
+}
+.footer-link{
+  position: relative;
+  right: 90px;
+}
+
+
+.top_cloud{
+  position: absolute;
+  right:0px;
+}
+.bottom_cloud{
+  position: absolute;
+}
+.sat1{
+  line-height: 2;
+  margin: 0px;
+font-size: 50px;
+color: #66BFBF;
+font-family: 'Satisfy', cursive;
+}
+.sat2{
+  color: #66BFBF;
+font-family: 'Exo', sans-serif;
+}
+.img_sat{
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+  margin: 0 auto;
+  margin-top: 70px;
+}
